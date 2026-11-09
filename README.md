@@ -1,4 +1,4 @@
-# Paperpick Blogspot Blog Theme/Template
+# Paperpick Blogspot Theme/Template
 ## License
 This project is licensed under the MIT License. 
 
